@@ -1,0 +1,57 @@
+header {
+font-size: 1em;
+text-align: center;
+color: #000000;
+background-color: #ADD8E6;
+padding: 0.5em;
+}
+
+hr {
+margin: 0.5% 10%;
+color: #c7cdc5;
+}
+
+.ciudad-de-valencia {
+text-align: center; 
+}
+
+.ciudad-de-valencia img:hover {
+opacity: 0.4;
+}
+
+.ciudad-de-valencia img {
+width: 22%;
+height: 30%;
+}
+
+.historia-de-las-fallas nav {
+text-align: center;
+padding: 10px;
+border-top: 10px solid blue;
+border-bottom: 10px solid blue;
+}
+
+.historia-de-las-fallas nav a:hover {
+color: black;
+background-color: #add8e6;
+font-weight: 900;
+}
+
+.historia-de-las-fallas .descripcion {
+background-image: url("./img/valencia_antigua.jpg");
+background-repeat: repeat-x;
+background-size: inherit;
+padding: 1% 0%;
+font-weight: 700;
+color: blue;
+}
+
+.la-ciudad {
+background-color: #9ce1e0;
+}
+
+.la-ciudad img {
+width: 35%;
+display: block;
+margin: auto;
+}
